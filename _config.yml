@@ -1,0 +1,5 @@
+title: My GitHub Pages Site # Sets the title of your website
+description: A simple example for GitHub Pages # Sets a short description of your site
+theme: jekyll-theme-minimal # Specifies the Jekyll theme to use
+plugins:
+  - jekyll-remote-theme # Important for using themes hosted on GitHub
