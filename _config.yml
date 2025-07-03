@@ -1,5 +1,5 @@
-# title: My GitHub Pages Site # Sets the title of your website
-# description: A simple example for GitHub Pages # Sets a short description of your site
-theme: jekyll-theme-slate # Specifies the Jekyll theme to use
+title: My GitHub Pages Site # Sets the title of your website
+description: A simple example for GitHub Pages # Sets a short description of your site
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-  - jekyll-remote-theme # Important for using themes hosted on GitHub
+- jekyll-remote-theme # add this line to the plugins list if you already have one
